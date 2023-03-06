@@ -1,0 +1,73 @@
+@charset "utf-8";
+header {
+    background-image: -webkit-linear-gradient(37deg,rgba(4,62,83,1.00) 5.70%,rgba(92,193,236,1.00) 27.46%,rgba(4,62,83,1.00) 40.93%,rgba(43,150,195,1.00) 48.70%,rgba(32,72,88,1.00) 60.62%,rgba(5,115,162,1.00) 69.95%,rgba(37,86,107,1.00) 79.79%,rgba(141,205,232,1.00) 87.56%,rgba(92,193,236,1.00) 97.41%), url(hds.css);
+    background-image: -moz-linear-gradient(37deg,rgba(4,62,83,1.00) 5.70%,rgba(92,193,236,1.00) 27.46%,rgba(4,62,83,1.00) 40.93%,rgba(43,150,195,1.00) 48.70%,rgba(32,72,88,1.00) 60.62%,rgba(5,115,162,1.00) 69.95%,rgba(37,86,107,1.00) 79.79%,rgba(141,205,232,1.00) 87.56%,rgba(92,193,236,1.00) 97.41%), url(hds.css);
+    background-image: -o-linear-gradient(37deg,rgba(4,62,83,1.00) 5.70%,rgba(92,193,236,1.00) 27.46%,rgba(4,62,83,1.00) 40.93%,rgba(43,150,195,1.00) 48.70%,rgba(32,72,88,1.00) 60.62%,rgba(5,115,162,1.00) 69.95%,rgba(37,86,107,1.00) 79.79%,rgba(141,205,232,1.00) 87.56%,rgba(92,193,236,1.00) 97.41%), url(hds.css);
+    background-image: linear-gradient(53deg,rgba(4,62,83,1.00) 5.70%,rgba(92,193,236,1.00) 27.46%,rgba(4,62,83,1.00) 40.93%,rgba(43,150,195,1.00) 48.70%,rgba(32,72,88,1.00) 60.62%,rgba(5,115,162,1.00) 69.95%,rgba(37,86,107,1.00) 79.79%,rgba(141,205,232,1.00) 87.56%,rgba(92,193,236,1.00) 97.41%), url(hds.css);
+    background-color: #413C3C;
+    background-position: center center;
+    background-size: 80% auto;
+    background-repeat: no-repeat;
+    height: 212px;
+    background-clip: padding-box;
+    background-origin: padding-box;
+    background-attachment: fixed;
+    font-family: "Trebuchet MS", Verdana, Arial, helvetica, sans-serif;
+}
+image   {
+}
+body {
+    background-image: -webkit-linear-gradient(34deg,rgba(60,98,110,1.00) 7.77%,rgba(86,160,170,1.00) 10.36%,rgba(60,98,110,1.00) 15.54%,rgba(128,147,150,1.00) 16.58%,rgba(59,125,134,1.00) 22.28%,rgba(5,59,66,1.00) 27.46%,rgba(43,166,181,1.00) 32.65%,rgba(7,88,98,1.00) 33.68%,rgba(107,128,131,1.00) 41.97%,rgba(142,235,247,1.00) 45.08%,rgba(28,76,82,1.00) 45.08%,rgba(28,76,82,1.00) 48.70%,rgba(61,81,83,1.00) 56.99%,rgba(102,160,167,1.00) 65.28%,rgba(11,85,94,1.00) 69.95%,rgba(125,182,189,1.00) 78.76%,rgba(10,107,119,1.00) 83.42%,rgba(91,98,99,1.00) 89.12%,rgba(6,62,69,1.00) 97.41%);
+    background-image: -moz-linear-gradient(34deg,rgba(60,98,110,1.00) 7.77%,rgba(86,160,170,1.00) 10.36%,rgba(60,98,110,1.00) 15.54%,rgba(128,147,150,1.00) 16.58%,rgba(59,125,134,1.00) 22.28%,rgba(5,59,66,1.00) 27.46%,rgba(43,166,181,1.00) 32.65%,rgba(7,88,98,1.00) 33.68%,rgba(107,128,131,1.00) 41.97%,rgba(142,235,247,1.00) 45.08%,rgba(28,76,82,1.00) 45.08%,rgba(28,76,82,1.00) 48.70%,rgba(61,81,83,1.00) 56.99%,rgba(102,160,167,1.00) 65.28%,rgba(11,85,94,1.00) 69.95%,rgba(125,182,189,1.00) 78.76%,rgba(10,107,119,1.00) 83.42%,rgba(91,98,99,1.00) 89.12%,rgba(6,62,69,1.00) 97.41%);
+    background-image: -o-linear-gradient(34deg,rgba(60,98,110,1.00) 7.77%,rgba(86,160,170,1.00) 10.36%,rgba(60,98,110,1.00) 15.54%,rgba(128,147,150,1.00) 16.58%,rgba(59,125,134,1.00) 22.28%,rgba(5,59,66,1.00) 27.46%,rgba(43,166,181,1.00) 32.65%,rgba(7,88,98,1.00) 33.68%,rgba(107,128,131,1.00) 41.97%,rgba(142,235,247,1.00) 45.08%,rgba(28,76,82,1.00) 45.08%,rgba(28,76,82,1.00) 48.70%,rgba(61,81,83,1.00) 56.99%,rgba(102,160,167,1.00) 65.28%,rgba(11,85,94,1.00) 69.95%,rgba(125,182,189,1.00) 78.76%,rgba(10,107,119,1.00) 83.42%,rgba(91,98,99,1.00) 89.12%,rgba(6,62,69,1.00) 97.41%);
+    background-image: linear-gradient(56deg,rgba(60,98,110,1.00) 7.77%,rgba(86,160,170,1.00) 10.36%,rgba(60,98,110,1.00) 15.54%,rgba(128,147,150,1.00) 16.58%,rgba(59,125,134,1.00) 22.28%,rgba(5,59,66,1.00) 27.46%,rgba(43,166,181,1.00) 32.65%,rgba(7,88,98,1.00) 33.68%,rgba(107,128,131,1.00) 41.97%,rgba(142,235,247,1.00) 45.08%,rgba(28,76,82,1.00) 45.08%,rgba(28,76,82,1.00) 48.70%,rgba(61,81,83,1.00) 56.99%,rgba(102,160,167,1.00) 65.28%,rgba(11,85,94,1.00) 69.95%,rgba(125,182,189,1.00) 78.76%,rgba(10,107,119,1.00) 83.42%,rgba(91,98,99,1.00) 89.12%,rgba(6,62,69,1.00) 97.41%);
+    width: auto;
+    height: auto;
+    min-width: 512px;
+    max-width: none;
+    max-height: none;
+    display: inherit;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    overflow-x: visible;
+    visibility: visible;
+}
+.text-white {
+}
+.text-white {
+}
+.text-white {
+}
+.align-center {
+}
+.btn-white {
+}
+footer {
+    color: #FFFFFF;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-align: center;
+    text-shadow: 0px 0px #FBFBFB;
+}
+.test-white {
+}
+.text.white {
+}
+.center {
+}
+.a {
+}
+nav {
+    height: auto;
+
+}
+.align-left {
+}
+.text-white {
+}
+.text-white {
+}
+.tesxt-white {
+}
