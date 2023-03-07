@@ -549,7 +549,7 @@ pre code {
   margin-left: auto;
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .container {
     max-width: 540px;
   }
@@ -879,7 +879,7 @@ pre code {
   margin-left: 91.666667%;
 }
 
-@media (min-width: 576px) {
+@media (min-width:400px){
   .col-sm {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
@@ -2449,7 +2449,7 @@ textarea.form-control {
   width: 100%;
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .form-inline label {
     display: -ms-flexbox;
     display: flex;
@@ -3245,7 +3245,7 @@ input[type="button"].btn-block {
   left: auto;
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .dropdown-menu-sm-left {
     right: auto;
     left: 0;
@@ -4416,7 +4416,7 @@ input[type="button"].btn-block {
   background-size: 100% 100%;
 }
 
-@media (max-width: 575.98px) {
+@media (max-width:500px){
   .navbar-expand-sm > .container,
   .navbar-expand-sm > .container-fluid, .navbar-expand-sm > .container-sm, .navbar-expand-sm > .container-md, .navbar-expand-sm > .container-lg, .navbar-expand-sm > .container-xl {
     padding-right: 0;
@@ -4424,7 +4424,7 @@ input[type="button"].btn-block {
   }
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .navbar-expand-sm {
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
@@ -4661,7 +4661,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-light .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.5)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  background-image: url("mailto:  information@eburgdesigns.com");
 }
 
 .navbar-light .navbar-text {
@@ -4851,7 +4851,7 @@ input[type="button"].btn-block {
   margin-bottom: 15px;
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .card-deck {
     display: -ms-flexbox;
     display: flex;
@@ -4873,7 +4873,7 @@ input[type="button"].btn-block {
   margin-bottom: 15px;
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .card-group {
     display: -ms-flexbox;
     display: flex;
@@ -4919,7 +4919,7 @@ input[type="button"].btn-block {
   margin-bottom: 0.75rem;
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .card-columns {
     -webkit-column-count: 3;
     -moz-column-count: 3;
@@ -5247,7 +5247,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   border-radius: 0.3rem;
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .jumbotron {
     padding: 4rem 2rem;
   }
@@ -5573,7 +5573,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   border-left-width: 1px;
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .list-group-horizontal-sm {
     -ms-flex-direction: row;
     flex-direction: row;
@@ -6091,7 +6091,7 @@ a.close.disabled {
   overflow: scroll;
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .modal-dialog {
     max-width: 500px;
     margin: 1.75rem auto;
@@ -6944,7 +6944,7 @@ button.bg-dark:focus {
   display: inline-flex !important;
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .d-sm-none {
     display: none !important;
   }
@@ -7317,7 +7317,7 @@ button.bg-dark:focus {
   align-self: stretch !important;
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .flex-sm-row {
     -ms-flex-direction: row !important;
     flex-direction: row !important;
@@ -8532,7 +8532,7 @@ button.bg-dark:focus {
   margin-left: auto !important;
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .m-sm-0 {
     margin: 0 !important;
   }
@@ -9946,7 +9946,7 @@ button.bg-dark:focus {
   text-align: center !important;
 }
 
-@media (min-width: 576px) {
+@media (min-width:500px){
   .text-sm-left {
     text-align: left !important;
   }
@@ -10221,4 +10221,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
-/*# sourceMappingURL=bootstrap.css.map */
+/*# sourceMappingURL=bootstrap.css.map */.nav-expand-md {
+}
+.aligin-center {
+}
